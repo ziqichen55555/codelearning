@@ -1,0 +1,9 @@
+#groupsofar {
+    background-color: pink;
+}
+td > span:hover{
+    font-size: xx-large;
+}
+#groupsofar:hover{
+    font-size: smaller;
+}
